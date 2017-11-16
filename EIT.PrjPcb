@@ -250,6 +250,82 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for EIT\Design Rule Check - Top_Level.html
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for EIT\Parallel_CS-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for EIT\Parallel_CS-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for EIT\Parallel_CS.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for EIT\Parallel_CS.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for EIT\Parallel_CS.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for EIT\Parallel_CS.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for EIT\Parallel_CS.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for EIT\Parallel_CS.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -487,74 +563,78 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Canon iR-ADV 4045/4051 PCL5e
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842753~1,16842754~1,16842751~1,16973835~1,16973831~1,16908289~1,16908291~1,16908301~1,16908303~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1209,83 +1289,95 @@ ComponentSymbolReference2=Header 2
 ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Miscellaneous Devices.IntLib
-ComponentDesignItemID3=Cap Semi
-ComponentSymbolReference3=Cap Semi
-ComponentUpdate3=0
+ComponentLibraryIdentifier3=Miscellaneous Connectors.IntLib
+ComponentDesignItemID3=Header 4X2
+ComponentSymbolReference3=Header 4X2
+ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Miscellaneous Devices.IntLib
-ComponentDesignItemID4=Res1
-ComponentSymbolReference4=Res1
+ComponentDesignItemID4=Cap Semi
+ComponentSymbolReference4=Cap Semi
 ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Miscellaneous Devices.IntLib
-ComponentDesignItemID5=SW-SPST
-ComponentSymbolReference5=SW-SPST
+ComponentDesignItemID5=Res1
+ComponentSymbolReference5=Res1
 ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Pro_Micro.SchLib
-ComponentDesignItemID6=Pro_Micro
-ComponentSymbolReference6=Pro_Micro
+ComponentLibraryIdentifier6=Miscellaneous Devices.IntLib
+ComponentDesignItemID6=SW-SPST
+ComponentSymbolReference6=SW-SPST
 ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=TESTPOINTWHITE.SchLib
-ComponentDesignItemID7=TESTPOINT_WHITE
-ComponentSymbolReference7=TESTPOINT_WHITE
-ComponentUpdate7=1
+ComponentLibraryIdentifier7=Pro_Micro.SchLib
+ComponentDesignItemID7=Pro_Micro
+ComponentSymbolReference7=Pro_Micro
+ComponentUpdate7=0
 ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name Only
-ComponentLibraryIdentifier8=Altium Content Vault
-ComponentDesignItemID8=CMP-0133-00142-1
-ComponentSymbolReference8=PM-BM-MCP73831-SOT5
-ComponentUpdate8=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=TESTPOINTWHITE.SchLib
+ComponentDesignItemID8=TESTPOINT_WHITE
+ComponentSymbolReference8=TESTPOINT_WHITE
+ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name Only
 ComponentLibraryIdentifier9=Altium Content Vault
-ComponentDesignItemID9=CMP-0272-00241-3
-ComponentSymbolReference9=CMP-0272-00241-3
+ComponentDesignItemID9=CMP-0133-00142-1
+ComponentSymbolReference9=PM-BM-MCP73831-SOT5
 ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name Only
 ComponentLibraryIdentifier10=Altium Content Vault
 ComponentDesignItemID10=CMP-0272-00241-3
-ComponentSymbolReference10=TI-OPA-8_2
+ComponentSymbolReference10=CMP-0272-00241-3
 ComponentUpdate10=0
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name Only
 ComponentLibraryIdentifier11=Altium Content Vault
-ComponentDesignItemID11=CMP-0293-00077-1
-ComponentSymbolReference11=ADI-AD9833-RM-10
+ComponentDesignItemID11=CMP-0272-00241-3
+ComponentSymbolReference11=TI-OPA-8_2
 ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name Only
 ComponentLibraryIdentifier12=Altium Content Vault
-ComponentDesignItemID12=CMP-0475-00491-1
-ComponentSymbolReference12=LT-LTC104XX-8
+ComponentDesignItemID12=CMP-0293-00077-1
+ComponentSymbolReference12=ADI-AD9833-RM-10
 ComponentUpdate12=0
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name Only
 ComponentLibraryIdentifier13=Altium Content Vault
-ComponentDesignItemID13=CMP-1349-00001-2
-ComponentSymbolReference13=HIRO-ZX62D-AB-5P8-5
+ComponentDesignItemID13=CMP-0475-00491-1
+ComponentSymbolReference13=LT-LTC104XX-8
 ComponentUpdate13=0
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name Only
 ComponentLibraryIdentifier14=Altium Content Vault
-ComponentDesignItemID14=CMP-1666-00027-1
-ComponentSymbolReference14=LED-RED-AK-2
+ComponentDesignItemID14=CMP-1349-00001-2
+ComponentSymbolReference14=HIRO-ZX62D-AB-5P8-5
 ComponentUpdate14=0
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name Only
 ComponentLibraryIdentifier15=Altium Content Vault
-ComponentDesignItemID15=CMP-2000-06612-1
-ComponentSymbolReference15=LT-LTC6900-TSOT-23-5
+ComponentDesignItemID15=CMP-1666-00027-1
+ComponentSymbolReference15=LED-RED-AK-2
 ComponentUpdate15=0
 ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name Only
+ComponentLibraryIdentifier16=Altium Content Vault
+ComponentDesignItemID16=CMP-2000-06612-1
+ComponentSymbolReference16=LT-LTC6900-TSOT-23-5
+ComponentUpdate16=0
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name Only
+ComponentLibraryIdentifier17=Altium Content Vault
+ComponentDesignItemID17=TESTPOINT_WHITE
+ComponentSymbolReference17=SYM-0184-00010-1
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1573,72 +1665,69 @@ ModelType14=PCBLIB
 ModelName14=HDR1X2
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=HIRO-ZX62D-AB-5P8_V
+ModelName15=HDR2X4
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=JST- S2B-PH-SM4-TB(LF)(SN)-2_V
+ModelName16=HIRO-ZX62D-AB-5P8_V
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=LT-S8-8_L
+ModelName17=JST- S2B-PH-SM4-TB(LF)(SN)-2_V
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=LT-S8-8_M
+ModelName18=LT-S8-8_L
 ModelUpdate18=1
 ModelType19=PCBLIB
-ModelName19=LT-S8-8_N
+ModelName19=LT-S8-8_M
 ModelUpdate19=1
 ModelType20=PCBLIB
-ModelName20=LT-TSOT-23-5_V
+ModelName20=LT-S8-8_N
 ModelUpdate20=1
 ModelType21=PCBLIB
-ModelName21=Pro_Micro
+ModelName21=LT-TSOT-23-5_V
 ModelUpdate21=1
 ModelType22=PCBLIB
-ModelName22=SCKT-2.05H1
+ModelName22=Pro_Micro
 ModelUpdate22=1
 ModelType23=PCBLIB
-ModelName23=SCKT-2H1
+ModelName23=SOP65P490X110-8N
 ModelUpdate23=1
 ModelType24=PCBLIB
-ModelName24=SOP65P490X110-8N
+ModelName24=SOT-23-OT5_L
 ModelUpdate24=1
 ModelType25=PCBLIB
-ModelName25=SOT-23-OT5_L
+ModelName25=SOT-23-OT5_M
 ModelUpdate25=1
 ModelType26=PCBLIB
-ModelName26=SOT-23-OT5_M
+ModelName26=SOT-23-OT5_N
 ModelUpdate26=1
 ModelType27=PCBLIB
-ModelName27=SOT-23-OT5_N
+ModelName27=SPST-2
 ModelUpdate27=1
 ModelType28=PCBLIB
-ModelName28=SPST-2
+ModelName28=TestPointVia
 ModelUpdate28=1
 ModelType29=PCBLIB
-ModelName29=TestPointVia
+ModelName29=VISH-TLMX1100_V
 ModelUpdate29=1
-ModelType30=PCBLIB
-ModelName30=VISH-TLMX1100_V
-ModelUpdate30=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
+ModelType30=SI
+ModelName30=Cap Semi
+ModelUpdate30=1
 ModelType31=SI
-ModelName31=Cap Semi
+ModelName31=Connector
 ModelUpdate31=1
 ModelType32=SI
-ModelName32=Connector
+ModelName32=Res
 ModelUpdate32=1
-ModelType33=SI
-ModelName33=Res
-ModelUpdate33=1
 ModelTypeGroup2=SIM
 ModelTypeUpdate2=1
+ModelType33=SIM
+ModelName33=CAP
+ModelUpdate33=1
 ModelType34=SIM
-ModelName34=CAP
+ModelName34=RESISTOR
 ModelUpdate34=1
-ModelType35=SIM
-ModelName35=RESISTOR
-ModelUpdate35=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
