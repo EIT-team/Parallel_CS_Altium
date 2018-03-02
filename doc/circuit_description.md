@@ -1,5 +1,5 @@
 ## Top level schematic
-The design uses Altium's hierarchical sheet setup to replicate the CS block six times
+The design uses Altium's hierarchical sheet setup to replicate the CS block six times.
 Additional sheets are used for the Power Supply/USB/Buttons and for the Arduino connector and clock source
 ![TOP](https://github.com/EIT-team/Parallel_CS_Altium/blob/master/doc/images/top_level.PNG)
 
