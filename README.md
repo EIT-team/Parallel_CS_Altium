@@ -10,4 +10,4 @@ The most recently used Gerber files, BOM and Pick and Place data are included.
 Arduino source code for programming the CS. The latest board uses a 3.3V Arduino Pro Mini (ATMega328P).
 
 ### doc
-Documentation
+Contains Circuit description, assembly instructions and operating instructions.
