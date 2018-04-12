@@ -7,7 +7,7 @@ Altium files (root directory), fabrcation/assembly data and source code for UCL 
 The most recently used Gerber files, BOM and Pick and Place data are included.
 
 ### src
-Arduino source code for programming the CS
+Arduino source code for programming the CS. The latest board uses a 3.3V Arduino Pro Mini (ATMega328P).
 
 ### doc
 Documentation
