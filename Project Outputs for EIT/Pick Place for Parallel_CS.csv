@@ -1,0 +1,340 @@
+Altium Designer Pick and Place Locations,,,,,,,,,
+D:\Documents\Circuit layouts, schematics and misc technical\Altium\EIT\Project Outputs for EIT\Pick Place for Parallel_CS.csv,,,,,,,,
+,,,,,,,,,
+========================================================================================================================,,,,,,,,,
+File Design Information:,,,,,,,,,
+,,,,,,,,,
+Date:       20/04/18,,,,,,,,,
+Time:       06:58,,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,,
+Variant:    No variations,,,,,,,,,
+Units used: mm,,,,,,,,,
+,,,,,,,,,
+Designator,Comment,Footprint,Center-X(mm),Center-Y(mm),Rotation,Layer,Description,Part no,Supplied
+C22,0.1uF,1608[0603],59.879,115.062,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C16,0.1uF,1608[0603],54.737,190.054,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C14,0.1uF,1608[0603],54.737,185.736,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C12,0.1uF,1608[0603],36.973,195.84,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C10,0.1uF,1608[0603],71.12,180.656,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C9,0.1uF,1608[0603],74.549,188.149,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C8,0.1uF,1608[0603],71.501,192.848,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C7,0.1uF,1608[0603],75.057,200.087,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C6,0.1uF,1608[0603],40.324,184.974,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C5,0.1uF,1608[0603],44.007,192.086,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C4,0.1uF,1608[0603],28.926,195.843,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C4,0.1uF,1608[0603],28.418,49.666,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C5,0.1uF,1608[0603],43.499,45.909,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C6,0.1uF,1608[0603],39.816,38.797,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C7,0.1uF,1608[0603],74.549,53.91,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C8,0.1uF,1608[0603],70.993,46.671,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C9,0.1uF,1608[0603],74.041,41.972,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C10,0.1uF,1608[0603],70.612,34.479,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C12,0.1uF,1608[0603],36.465,49.663,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C14,0.1uF,1608[0603],54.229,39.559,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C16,0.1uF,1608[0603],54.229,43.877,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C4,0.1uF,1608[0603],28.418,73.861,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C5,0.1uF,1608[0603],43.499,70.104,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C6,0.1uF,1608[0603],39.816,62.992,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C7,0.1uF,1608[0603],74.549,78.105,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C8,0.1uF,1608[0603],70.993,70.866,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C9,0.1uF,1608[0603],74.041,66.167,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C10,0.1uF,1608[0603],70.612,58.674,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C12,0.1uF,1608[0603],36.465,73.858,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C14,0.1uF,1608[0603],54.229,63.754,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C16,0.1uF,1608[0603],54.229,68.072,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C4,0.1uF,1608[0603],28.418,98.118,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C5,0.1uF,1608[0603],43.499,94.361,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C6,0.1uF,1608[0603],39.816,87.249,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C7,0.1uF,1608[0603],74.549,102.362,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C8,0.1uF,1608[0603],70.993,95.123,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C9,0.1uF,1608[0603],74.041,90.424,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C10,0.1uF,1608[0603],70.612,82.931,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C12,0.1uF,1608[0603],36.465,98.115,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C14,0.1uF,1608[0603],54.229,88.011,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C16,0.1uF,1608[0603],54.229,92.329,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C4,0.1uF,1608[0603],28.926,147.329,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C5,0.1uF,1608[0603],44.007,143.572,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C6,0.1uF,1608[0603],40.324,136.46,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C7,0.1uF,1608[0603],75.057,151.573,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C8,0.1uF,1608[0603],71.501,144.334,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C9,0.1uF,1608[0603],74.549,139.635,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C10,0.1uF,1608[0603],71.12,132.142,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C12,0.1uF,1608[0603],36.973,147.326,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C14,0.1uF,1608[0603],54.737,137.222,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C16,0.1uF,1608[0603],54.737,141.54,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C4,0.1uF,1608[0603],28.926,171.459,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C5,0.1uF,1608[0603],44.007,167.702,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C6,0.1uF,1608[0603],40.324,160.59,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C7,0.1uF,1608[0603],75.057,175.703,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C8,0.1uF,1608[0603],71.501,168.464,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C9,0.1uF,1608[0603],74.549,163.765,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C10,0.1uF,1608[0603],71.12,156.272,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C12,0.1uF,1608[0603],36.973,171.456,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C14,0.1uF,1608[0603],54.737,161.352,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C16,0.1uF,1608[0603],54.737,165.67,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C23,0.1uF,1608[0603],52.705,46.736,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS1_C24,0.1uF,1608[0603],44.45,48.387,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C23,0.1uF,1608[0603],52.705,70.931,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS2_C24,0.1uF,1608[0603],44.45,72.582,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C23,0.1uF,1608[0603],52.705,95.188,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS3_C24,0.1uF,1608[0603],44.45,96.839,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C23,0.1uF,1608[0603],53.213,144.399,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS4_C24,0.1uF,1608[0603],44.958,146.05,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C23,0.1uF,1608[0603],53.213,168.529,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS5_C24,0.1uF,1608[0603],44.958,170.18,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C23,0.1uF,1608[0603],53.213,192.913,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_C24,0.1uF,1608[0603],44.958,194.564,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B104K500CT,PCB Train free components
+DDS6_R13,100K,6-0805_M,66.421,182.118,270,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS6_R12,100K,6-0805_M,59.801,182.688,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS6_R10,100K,6-0805_M,79.121,180.848,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS6_R9,100K,6-0805_M,65.151,186.117,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS6_R8,100K,6-0805_M,65.897,194.88,180,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS6_R7,100K,6-0805_M,59.96,194.88,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS6_R2,100K,6-0805_M,78.867,193.356,90,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS6_R1,100K,6-0805_M,66.024,198.309,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS1_R1,100K,6-0805_M,65.516,52.132,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS1_R2,100K,6-0805_M,78.359,47.179,90,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS1_R7,100K,6-0805_M,59.452,48.703,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS1_R9,100K,6-0805_M,64.643,39.94,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS1_R10,100K,6-0805_M,78.613,34.671,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS1_R12,100K,6-0805_M,59.293,36.511,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS1_R13,100K,6-0805_M,65.913,35.941,270,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS2_R1,100K,6-0805_M,65.516,76.327,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS2_R2,100K,6-0805_M,78.359,71.374,90,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS2_R7,100K,6-0805_M,59.452,72.898,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS2_R8,100K,6-0805_M,65.389,72.898,180,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS2_R9,100K,6-0805_M,64.643,64.135,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS2_R10,100K,6-0805_M,78.613,58.866,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS2_R12,100K,6-0805_M,59.293,60.706,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS2_R13,100K,6-0805_M,65.913,60.136,270,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS3_R1,100K,6-0805_M,65.516,100.584,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS3_R2,100K,6-0805_M,78.359,95.631,90,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS3_R7,100K,6-0805_M,59.452,97.155,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS3_R8,100K,6-0805_M,65.389,97.155,180,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS3_R9,100K,6-0805_M,64.643,88.392,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS3_R10,100K,6-0805_M,78.613,83.123,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS3_R12,100K,6-0805_M,59.293,84.963,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS3_R13,100K,6-0805_M,65.913,84.393,270,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS4_R1,100K,6-0805_M,66.024,149.795,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS4_R2,100K,6-0805_M,78.867,144.842,90,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS4_R7,100K,6-0805_M,59.96,146.366,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS4_R8,100K,6-0805_M,65.897,146.366,180,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS4_R9,100K,6-0805_M,65.151,137.603,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS4_R10,100K,6-0805_M,79.121,132.334,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS4_R12,100K,6-0805_M,59.801,134.174,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS4_R13,100K,6-0805_M,66.421,133.604,270,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS5_R1,100K,6-0805_M,66.024,173.925,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS5_R2,100K,6-0805_M,78.867,168.972,90,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS5_R7,100K,6-0805_M,59.96,170.496,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS5_R8,100K,6-0805_M,65.897,170.496,180,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS5_R9,100K,6-0805_M,65.151,161.733,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS5_R10,100K,6-0805_M,79.121,156.464,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS5_R12,100K,6-0805_M,59.801,158.304,360,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS5_R13,100K,6-0805_M,66.421,157.734,270,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS1_R8,100K,6-0805_M,65.389,48.703,180,TopLayer,Resistor,CPF-A-0805B100KE1,Customer Supplied
+DDS6_R26,10k,6-0805_M,56.896,195.072,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS5_R26,10k,6-0805_M,56.896,171.069,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS4_R26,10k,6-0805_M,56.896,146.685,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS3_R26,10k,6-0805_M,56.261,97.663,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS2_R26,10k,6-0805_M,56.388,73.279,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS1_R26,10k,6-0805_M,56.261,49.022,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS1_R6,10k,6-0805_M,48.641,39.751,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS6_R21,10k,6-0805_M,88.265,181.737,90,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS6_R18,10k,6-0805_M,88.265,199.136,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS6_R6,10k,6-0805_M,49.276,186.055,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS1_R18,10k,6-0805_M,87.757,52.959,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS1_R21,10k,6-0805_M,87.757,35.56,90,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS2_R6,10k,6-0805_M,48.641,64.008,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS2_R18,10k,6-0805_M,87.757,77.154,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS2_R21,10k,6-0805_M,87.757,59.755,90,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS3_R6,10k,6-0805_M,48.641,88.265,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS3_R18,10k,6-0805_M,87.757,101.411,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS3_R21,10k,6-0805_M,87.757,84.012,90,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS4_R6,10k,6-0805_M,49.022,137.414,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS4_R18,10k,6-0805_M,88.265,150.622,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS4_R21,10k,6-0805_M,88.265,133.223,90,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS5_R6,10k,6-0805_M,48.895,161.671,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS5_R18,10k,6-0805_M,88.265,174.752,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS5_R21,10k,6-0805_M,88.265,157.353,90,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS1_R24,10k,6-0805_M,23.876,39.513,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS2_R24,10k,6-0805_M,23.876,63.708,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS3_R24,10k,6-0805_M,23.876,87.965,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS4_R24,10k,6-0805_M,24.384,137.176,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS5_R24,10k,6-0805_M,24.384,161.306,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS6_R24,10k,6-0805_M,24.384,185.69,270,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS1_R25,10k,6-0805_M,56.388,52.324,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS1_R27,10k,6-0805_M,42.799,51.308,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS1_R28,10k,6-0805_M,48.514,44.069,360,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS2_R25,10k,6-0805_M,56.515,76.454,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS2_R27,10k,6-0805_M,42.799,75.503,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS2_R28,10k,6-0805_M,48.514,68.264,360,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS3_R25,10k,6-0805_M,56.515,100.711,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS3_R27,10k,6-0805_M,42.799,99.76,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS3_R28,10k,6-0805_M,48.514,92.521,360,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS4_R25,10k,6-0805_M,57.023,149.987,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS4_R27,10k,6-0805_M,43.307,148.971,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS4_R28,10k,6-0805_M,49.022,141.732,360,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS5_R25,10k,6-0805_M,57.023,174.244,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS5_R27,10k,6-0805_M,43.307,173.101,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS5_R28,10k,6-0805_M,49.022,165.862,360,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS6_R25,10k,6-0805_M,57.023,198.501,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS6_R27,10k,6-0805_M,43.307,197.485,180,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS6_R28,10k,6-0805_M,49.022,190.246,360,TopLayer,Resistor,CPF-A-0805B10KE1,Customer Supplied
+DDS6_C11,10nF,1608[0603],35.449,195.84,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B103K500CT,PCB Train free components
+DDS1_C11,10nF,1608[0603],34.941,49.663,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B103K500CT,PCB Train free components
+DDS2_C11,10nF,1608[0603],34.941,73.858,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B103K500CT,PCB Train free components
+DDS3_C11,10nF,1608[0603],34.941,98.115,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B103K500CT,PCB Train free components
+DDS4_C11,10nF,1608[0603],35.449,147.326,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B103K500CT,PCB Train free components
+DDS5_C11,10nF,1608[0603],35.449,171.456,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B103K500CT,PCB Train free components
+C19,10uF,1608[0603],60.071,120.842,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS6_C17,10uF,1608[0603],53.213,190.054,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS6_C15,10uF,1608[0603],53.086,185.736,270,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS6_C13,10uF,1608[0603],38.497,195.84,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+C20,10uF,1608[0603],68.199,116.713,360,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS1_C13,10uF,1608[0603],37.989,49.663,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS1_C15,10uF,1608[0603],52.578,39.559,270,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS1_C17,10uF,1608[0603],52.705,43.877,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS2_C13,10uF,1608[0603],37.989,73.858,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS2_C15,10uF,1608[0603],52.578,63.754,270,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS2_C17,10uF,1608[0603],52.705,68.072,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS3_C13,10uF,1608[0603],37.989,98.115,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS3_C15,10uF,1608[0603],52.578,88.011,270,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS3_C17,10uF,1608[0603],52.705,92.329,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS4_C13,10uF,1608[0603],38.497,147.326,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS4_C15,10uF,1608[0603],53.086,137.222,270,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS4_C17,10uF,1608[0603],53.213,141.54,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS5_C13,10uF,1608[0603],38.497,171.456,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS5_C15,10uF,1608[0603],53.086,161.352,270,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS5_C17,10uF,1608[0603],53.213,165.67,90,TopLayer,Capacitor (Semiconductor SIM Model),GRM188C80E106ME47D,Customer Supplied
+DDS6_R5,13k,6-0805_M,33.147,189.038,360,TopLayer,Resistor,MC01W0805113K,PCB Train free components
+DDS1_R5,13k,6-0805_M,32.639,42.861,360,TopLayer,Resistor,MC01W0805113K,PCB Train free components
+DDS2_R5,13k,6-0805_M,32.639,67.056,360,TopLayer,Resistor,MC01W0805113K,PCB Train free components
+DDS3_R5,13k,6-0805_M,32.639,91.313,360,TopLayer,Resistor,MC01W0805113K,PCB Train free components
+DDS4_R5,13k,6-0805_M,33.147,140.524,360,TopLayer,Resistor,MC01W0805113K,PCB Train free components
+DDS5_R5,13k,6-0805_M,33.147,164.654,360,TopLayer,Resistor,MC01W0805113K,PCB Train free components
+DDS1_C2,1u,1608[0603],44.45,38.481,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603X105K250CT,PCB Train free components
+DDS2_C2,1u,1608[0603],44.45,62.738,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603X105K250CT,PCB Train free components
+DDS3_C2,1u,1608[0603],44.45,86.995,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603X105K250CT,PCB Train free components
+DDS4_C2,1u,1608[0603],45.085,136.017,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603X105K250CT,PCB Train free components
+DDS5_C2,1u,1608[0603],45.085,160.274,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603X105K250CT,PCB Train free components
+DDS6_C2,1u,1608[0603],44.958,184.658,360,TopLayer,Capacitor (Semiconductor SIM Model),MC0603X105K250CT,PCB Train free components
+DDS6_C3,2.2nF,1608[0603],36.449,191.705,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B222K500CT,PCB Train free components
+DDS1_C3,2.2nF,1608[0603],35.941,45.528,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B222K500CT,PCB Train free components
+DDS2_C3,2.2nF,1608[0603],35.941,69.723,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B222K500CT,PCB Train free components
+DDS3_C3,2.2nF,1608[0603],35.941,93.98,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B222K500CT,PCB Train free components
+DDS4_C3,2.2nF,1608[0603],36.449,143.191,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B222K500CT,PCB Train free components
+DDS5_C3,2.2nF,1608[0603],36.449,167.321,180,TopLayer,Capacitor (Semiconductor SIM Model),MC0603B222K500CT,PCB Train free components
+DDS6_R22,20k,6-0805_M,85.471,181.737,90,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+R17,20k,6-0805_M,54.102,112.665,270,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS6_R11,20k,6-0805_M,85.598,199.136,270,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS1_R11,20k,6-0805_M,85.09,52.959,270,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS1_R22,20k,6-0805_M,84.963,35.56,90,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS2_R11,20k,6-0805_M,85.09,77.154,270,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS2_R22,20k,6-0805_M,84.963,59.755,90,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS3_R11,20k,6-0805_M,85.09,101.411,270,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS3_R22,20k,6-0805_M,84.963,84.012,90,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS4_R11,20k,6-0805_M,85.598,150.622,270,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS4_R22,20k,6-0805_M,85.471,133.223,90,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS5_R11,20k,6-0805_M,85.598,174.752,270,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS5_R22,20k,6-0805_M,85.471,157.353,90,TopLayer,Resistor,CPF-A-0805B20KE1,Customer Supplied
+DDS6_C1,220pF,1608[0603],36.957,187.325,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603N221J500CT,PCB Train free components
+DDS1_C1,220pF,1608[0603],36.449,41.148,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603N221J500CT,PCB Train free components
+DDS2_C1,220pF,1608[0603],36.449,65.343,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603N221J500CT,PCB Train free components
+DDS3_C1,220pF,1608[0603],36.449,89.6,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603N221J500CT,PCB Train free components
+DDS4_C1,220pF,1608[0603],36.957,138.811,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603N221J500CT,PCB Train free components
+DDS5_C1,220pF,1608[0603],36.957,162.941,90,TopLayer,Capacitor (Semiconductor SIM Model),MC0603N221J500CT,PCB Train free components
+R14,2k,6-0805_M,80.788,115.443,0,TopLayer,Resistor,MC01W080512K,PCB Train free components
+R15,330,6-0805_M,76.454,124.841,90,TopLayer,Resistor,MC01W08051330R,PCB Train free components
+R16,330,6-0805_M,85.725,110.379,90,TopLayer,Resistor,MC01W08051330R,PCB Train free components
+C18,4.7uF,1608[0603],89.027,112.076,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603F475Z6R3CT,Customer Supplied
+C21,4.7uF,1608[0603],77.216,110.555,270,TopLayer,Capacitor (Semiconductor SIM Model),MC0603F475Z6R3CT,Customer Supplied
+DDS6_R23,51k,6-0805_M,82.931,181.864,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS6_R3,51k,6-0805_M,83.058,199.263,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS1_R3,51k,6-0805_M,82.55,53.086,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS1_R23,51k,6-0805_M,82.423,35.56,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS2_R3,51k,6-0805_M,82.55,77.281,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS2_R23,51k,6-0805_M,82.423,59.755,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS3_R3,51k,6-0805_M,82.55,101.538,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS3_R23,51k,6-0805_M,82.423,84.012,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS4_R3,51k,6-0805_M,83.058,150.749,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS4_R23,51k,6-0805_M,82.931,133.223,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS5_R3,51k,6-0805_M,83.058,174.879,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS5_R23,51k,6-0805_M,82.931,157.353,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS6_R20,5.1k,6-0805_M,90.932,181.864,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS6_R19,5.1k,6-0805_M,90.932,199.009,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS1_R19,5.1k,6-0805_M,90.424,52.832,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS1_R20,5.1k,6-0805_M,90.424,35.56,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS2_R19,5.1k,6-0805_M,90.424,77.027,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS2_R20,5.1k,6-0805_M,90.424,59.755,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS3_R19,5.1k,6-0805_M,90.424,101.284,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS3_R20,5.1k,6-0805_M,90.424,84.012,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS4_R19,5.1k,6-0805_M,90.932,150.495,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS4_R20,5.1k,6-0805_M,90.932,133.223,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS5_R19,5.1k,6-0805_M,90.932,174.625,270,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS5_R20,5.1k,6-0805_M,90.932,157.353,90,TopLayer,Resistor,CPF-A-0805B4K1E1,Customer Supplied
+DDS6_R4,715,6-0805_M,31.242,186.371,360,TopLayer,Resistor,ERJ6ENF7150V,Customer Supplied
+DDS1_R4,715,6-0805_M,30.734,40.194,360,TopLayer,Resistor,ERJ6ENF7150V,Customer Supplied
+DDS2_R4,715,6-0805_M,30.734,64.389,360,TopLayer,Resistor,ERJ6ENF7150V,Customer Supplied
+DDS3_R4,715,6-0805_M,30.734,88.646,360,TopLayer,Resistor,ERJ6ENF7150V,Customer Supplied
+DDS4_R4,715,6-0805_M,31.242,137.857,360,TopLayer,Resistor,ERJ6ENF7150V,Customer Supplied
+DDS5_R4,715,6-0805_M,31.242,161.987,360,TopLayer,Resistor,ERJ6ENF7150V,Customer Supplied
+DDS6_U4,AD8476ARMZ,SOP65P490X110-8N,57.277,189.292,90,TopLayer,SP Amp DIFF AMP Single R-R O/P Â±9V/18V 8-Pin MSOP Tube,NOT FITTED,NOT FITTED
+DDS1_U4,AD8476ARMZ,SOP65P490X110-8N,56.769,43.115,90,TopLayer,SP Amp DIFF AMP Single R-R O/P Â±9V/18V 8-Pin MSOP Tube,NOT FITTED,NOT FITTED
+DDS2_U4,AD8476ARMZ,SOP65P490X110-8N,56.769,67.31,90,TopLayer,SP Amp DIFF AMP Single R-R O/P Â±9V/18V 8-Pin MSOP Tube,NOT FITTED,NOT FITTED
+DDS3_U4,AD8476ARMZ,SOP65P490X110-8N,56.769,91.567,90,TopLayer,SP Amp DIFF AMP Single R-R O/P Â±9V/18V 8-Pin MSOP Tube,NOT FITTED,NOT FITTED
+DDS4_U4,AD8476ARMZ,SOP65P490X110-8N,57.277,140.778,90,TopLayer,SP Amp DIFF AMP Single R-R O/P Â±9V/18V 8-Pin MSOP Tube,NOT FITTED,NOT FITTED
+DDS5_U4,AD8476ARMZ,SOP65P490X110-8N,57.277,164.908,90,TopLayer,SP Amp DIFF AMP Single R-R O/P Â±9V/18V 8-Pin MSOP Tube,NOT FITTED,NOT FITTED
+DDS6_U1,AD9833BRMZ,ADI-RM-10_M,31.893,195.902,270,TopLayer,"Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free",AD9833BRMZ,Customer Supplied
+DDS1_U1,AD9833BRMZ,ADI-RM-10_M,31.385,49.725,270,TopLayer,"Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free",AD9833BRMZ,Customer Supplied
+DDS2_U1,AD9833BRMZ,ADI-RM-10_M,31.385,73.92,270,TopLayer,"Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free",AD9833BRMZ,Customer Supplied
+DDS3_U1,AD9833BRMZ,ADI-RM-10_M,31.385,98.177,270,TopLayer,"Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free",AD9833BRMZ,Customer Supplied
+DDS4_U1,AD9833BRMZ,ADI-RM-10_M,31.893,147.388,270,TopLayer,"Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free",AD9833BRMZ,Customer Supplied
+DDS5_U1,AD9833BRMZ,ADI-RM-10_M,31.893,171.518,270,TopLayer,"Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free",AD9833BRMZ,Customer Supplied
+DDS6_P1,Header 2,HDR1X2,94.615,190.5,270,TopLayer,"Header, 2-Pin",,NOT FITTED
+DDS1_P1,Header 2,HDR1X2,94.107,44.323,270,TopLayer,"Header, 2-Pin",,NOT FITTED
+DDS2_P1,Header 2,HDR1X2,94.107,68.518,270,TopLayer,"Header, 2-Pin",,NOT FITTED
+DDS3_P1,Header 2,HDR1X2,94.107,92.775,270,TopLayer,"Header, 2-Pin",,NOT FITTED
+DDS4_P1,Header 2,HDR1X2,94.615,141.986,270,TopLayer,"Header, 2-Pin",,NOT FITTED
+DDS5_P1,Header 2,HDR1X2,94.615,166.116,270,TopLayer,"Header, 2-Pin",,NOT FITTED
+DDS6_P3,Header 4X2,HDR2X4,86.868,186.69,360,TopLayer,2213S-08G,,Customer Supplied
+DDS6_P2,Header 4X2,HDR2X4,86.868,194.437,180,TopLayer,2213S-08G,,Customer Supplied
+DDS1_P2,Header 4X2,HDR2X4,86.36,48.26,180,TopLayer,2213S-08G,,Customer Supplied
+DDS1_P3,Header 4X2,HDR2X4,86.36,40.513,360,TopLayer,2213S-08G,,Customer Supplied
+DDS2_P2,Header 4X2,HDR2X4,86.36,72.455,180,TopLayer,2213S-08G,,Customer Supplied
+DDS2_P3,Header 4X2,HDR2X4,86.36,64.708,360,TopLayer,2213S-08G,,Customer Supplied
+DDS3_P2,Header 4X2,HDR2X4,86.36,96.712,180,TopLayer,2213S-08G,,Customer Supplied
+DDS3_P3,Header 4X2,HDR2X4,86.36,88.965,360,TopLayer,2213S-08G,,Customer Supplied
+DDS4_P2,Header 4X2,HDR2X4,86.868,145.923,180,TopLayer,2213S-08G,,Customer Supplied
+DDS4_P3,Header 4X2,HDR2X4,86.868,138.176,360,TopLayer,2213S-08G,,Customer Supplied
+DDS5_P2,Header 4X2,HDR2X4,86.868,170.053,180,TopLayer,2213S-08G,,Customer Supplied
+DDS5_P3,Header 4X2,HDR2X4,86.868,162.306,360,TopLayer,2213S-08G,,Customer Supplied
+U7,LTC1044ACS8,LT-S8-8_M,66.294,121.412,0,TopLayer,"12 V CMOS Voltage Converter, 8-pin SOIC (S8-8), 0 to 70 degC",LTC1044CS8#PBF,
+U8,LTC6900IS5#PBF,LT-TSOT-23-5_V,59.182,112.522,0,TopLayer,"Low Power, Resistor Set Oscillator, 1 KHz to 20 MHz, 2.7 to 5.5 V, -40 to 85 degC, 5-Pin SOT-23 (S5), Pb-Free",LTC6900CS5#TRMPBF,Customer Supplied
+U6,MCP73831T-2ADI/OT,SOT-23-OT5_M,80.956,111.44,0,TopLayer,"Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.2V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel",MCP73831T-2ADI/OT,Customer Supplied
+DDS6_U5,OPA2188AIDR,D0008A_L,72.771,184.466,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS6_U3,OPA2188AIDR,D0008A_L,42.164,188.611,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS6_U2,OPA2188AIDR,D0008A_L,73.279,196.404,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS1_U2,OPA2188AIDR,D0008A_L,72.771,50.227,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS1_U3,OPA2188AIDR,D0008A_L,41.656,42.434,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS1_U5,OPA2188AIDR,D0008A_L,72.263,38.289,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS2_U2,OPA2188AIDR,D0008A_L,72.771,74.422,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS2_U3,OPA2188AIDR,D0008A_L,41.656,66.629,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS2_U5,OPA2188AIDR,D0008A_L,72.263,62.484,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS3_U2,OPA2188AIDR,D0008A_L,72.771,98.679,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS3_U3,OPA2188AIDR,D0008A_L,41.656,90.886,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS3_U5,OPA2188AIDR,D0008A_L,72.263,86.741,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS4_U2,OPA2188AIDR,D0008A_L,73.279,147.89,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS4_U3,OPA2188AIDR,D0008A_L,42.164,140.097,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS4_U5,OPA2188AIDR,D0008A_L,72.771,135.952,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS5_U2,OPA2188AIDR,D0008A_L,73.279,172.02,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS5_U3,OPA2188AIDR,D0008A_L,42.164,164.227,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS5_U5,OPA2188AIDR,D0008A_L,72.771,160.082,360,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS2_U9,OPA2188AIDR,D0008A_L,48.26,72.836,270,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS3_U9,OPA2188AIDR,D0008A_L,48.26,97.093,270,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS4_U9,OPA2188AIDR,D0008A_L,48.768,146.304,270,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS5_U9,OPA2188AIDR,D0008A_L,48.768,170.434,270,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS6_U9,OPA2188AIDR,D0008A_L,48.768,194.818,270,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DDS1_U9,OPA2188AIDR,D0008A_L,48.26,48.641,270,TopLayer,"0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)",OPA2188AIDR,Customer Supplied
+DS1,TLMS1100-GS08,VISH-TLMX1100_V,75.565,107.569,180,TopLayer,"LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel",TLMS1100-GS08,Customer Supplied
+DS2,TLMS1100-GS08,VISH-TLMX1100_V,76.454,120.523,270,TopLayer,"LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel",TLMS1100-GS08,Customer Supplied
+J1,ZX62D-AB-5P8,HIRO-ZX62D-AB-5P8_V,98.0055,111.386,90,TopLayer,"USB 2.0 Standard Micro-USB Connector, Micro AB-Standard (Bottom Mount), 30 V AC, -30 to 85 degC, Right Angle, 5-Pin 7.5 x 5.6 x 2.8 mm SMD, RoHS, Reel",47346-0001,Customer Supplied

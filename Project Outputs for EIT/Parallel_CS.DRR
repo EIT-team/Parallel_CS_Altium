@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Parallel_CS.PcbDoc   20/04/2018  06:20:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Parallel_CS-RoundHoles.TXT
+ASCII SlotHoles File : Parallel_CS-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             143       PTH        1140.23mm (44.89inch)
+T2      0.65mm (26mil)                                            Slot              2         PTH        9.30mm (0.37inch)
+T3      0.711mm (28mil)                                           Round             85        PTH        927.11mm (36.50inch)
+T4      0.825mm (32mil)                                           Slot              2         PTH        17.73mm (0.70inch)
+T5      0.9mm (35mil)                                             Round             108       PTH        450.34mm (17.73inch)
+T6      1mm (39mil)                                               Round             69        PTH        798.32mm (31.43inch)
+T7      1.016mm (40mil)                                           Round             24        PTH        71.12mm (2.80inch)
+T8      1.1mm (43mil)                                             Round             2         PTH        5.08mm (0.20inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              435
+
+Total Processing Time (hh:mm:ss) : 00:00:01

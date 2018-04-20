@@ -1,0 +1,144 @@
+Bill of Material for 
+On 20/04/2018 at 06:43:15
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               1608[0603]      73    C22, DDS1_C4, DDS1_C5        Capacitor (Semiconductor SIM Model) 
+                                           DDS1_C6, DDS1_C7, DDS1_C8
+                                           DDS1_C9, DDS1_C10, DDS1_C12
+                                           DDS1_C14, DDS1_C16, DDS1_C23
+                                           DDS1_C24, DDS2_C4, DDS2_C5
+                                           DDS2_C6, DDS2_C7, DDS2_C8
+                                           DDS2_C9, DDS2_C10, DDS2_C12
+                                           DDS2_C14, DDS2_C16, DDS2_C23
+                                           DDS2_C24, DDS3_C4, DDS3_C5
+                                           DDS3_C6, DDS3_C7, DDS3_C8
+                                           DDS3_C9, DDS3_C10, DDS3_C12
+                                           DDS3_C14, DDS3_C16, DDS3_C23
+                                           DDS3_C24, DDS4_C4, DDS4_C5
+                                           DDS4_C6, DDS4_C7, DDS4_C8
+                                           DDS4_C9, DDS4_C10, DDS4_C12
+                                           DDS4_C14, DDS4_C16, DDS4_C23
+                                           DDS4_C24, DDS5_C4, DDS5_C5
+                                           DDS5_C6, DDS5_C7, DDS5_C8
+                                           DDS5_C9, DDS5_C10, DDS5_C12
+                                           DDS5_C14, DDS5_C16, DDS5_C23
+                                           DDS5_C24, DDS6_C4, DDS6_C5
+                                           DDS6_C6, DDS6_C7, DDS6_C8
+                                           DDS6_C9, DDS6_C10, DDS6_C12
+                                           DDS6_C14, DDS6_C16, DDS6_C23
+                                           DDS6_C24
+ 100K                6-0805_M        48    DDS1_R1, DDS1_R2, DDS1_R7    Resistor             
+                                           DDS1_R8, DDS1_R9, DDS1_R10
+                                           DDS1_R12, DDS1_R13, DDS2_R1
+                                           DDS2_R2, DDS2_R7, DDS2_R8
+                                           DDS2_R9, DDS2_R10, DDS2_R12
+                                           DDS2_R13, DDS3_R1, DDS3_R2
+                                           DDS3_R7, DDS3_R8, DDS3_R9
+                                           DDS3_R10, DDS3_R12, DDS3_R13
+                                           DDS4_R1, DDS4_R2, DDS4_R7
+                                           DDS4_R8, DDS4_R9, DDS4_R10
+                                           DDS4_R12, DDS4_R13, DDS5_R1
+                                           DDS5_R2, DDS5_R7, DDS5_R8
+                                           DDS5_R9, DDS5_R10, DDS5_R12
+                                           DDS5_R13, DDS6_R1, DDS6_R2
+                                           DDS6_R7, DDS6_R8, DDS6_R9
+                                           DDS6_R10, DDS6_R12, DDS6_R13
+ 10k                 6-0805_M        48    DDS1_R6, DDS1_R18, DDS1_R21  Resistor             
+                                           DDS1_R24, DDS1_R25, DDS1_R26
+                                           DDS1_R27, DDS1_R28, DDS2_R6
+                                           DDS2_R18, DDS2_R21, DDS2_R24
+                                           DDS2_R25, DDS2_R26, DDS2_R27
+                                           DDS2_R28, DDS3_R6, DDS3_R18
+                                           DDS3_R21, DDS3_R24, DDS3_R25
+                                           DDS3_R26, DDS3_R27, DDS3_R28
+                                           DDS4_R6, DDS4_R18, DDS4_R21
+                                           DDS4_R24, DDS4_R25, DDS4_R26
+                                           DDS4_R27, DDS4_R28, DDS5_R6
+                                           DDS5_R18, DDS5_R21, DDS5_R24
+                                           DDS5_R25, DDS5_R26, DDS5_R27
+                                           DDS5_R28, DDS6_R6, DDS6_R18
+                                           DDS6_R21, DDS6_R24, DDS6_R25
+                                           DDS6_R26, DDS6_R27, DDS6_R28
+ 10nF                1608[0603]       6    DDS1_C11, DDS2_C11, DDS3_C11 Capacitor (Semiconductor SIM Model) 
+                                           DDS4_C11, DDS5_C11, DDS6_C11
+ 10uF                1608[0603]      20    C19, C20, DDS1_C13, DDS1_C15 Capacitor (Semiconductor SIM Model) 
+                                           DDS1_C17, DDS2_C13, DDS2_C15
+                                           DDS2_C17, DDS3_C13, DDS3_C15
+                                           DDS3_C17, DDS4_C13, DDS4_C15
+                                           DDS4_C17, DDS5_C13, DDS5_C15
+                                           DDS5_C17, DDS6_C13, DDS6_C15
+                                           DDS6_C17
+ 13k                 6-0805_M         6    DDS1_R5, DDS2_R5, DDS3_R5    Resistor             
+                                           DDS4_R5, DDS5_R5, DDS6_R5
+ 1u                  1608[0603]       6    DDS1_C2, DDS2_C2, DDS3_C2    Capacitor (Semiconductor SIM Model) 
+                                           DDS4_C2, DDS5_C2, DDS6_C2
+ 2.2nF               1608[0603]       6    DDS1_C3, DDS2_C3, DDS3_C3    Capacitor (Semiconductor SIM Model) 
+                                           DDS4_C3, DDS5_C3, DDS6_C3
+ 20k                 6-0805_M        13    DDS1_R11, DDS1_R22, DDS2_R11 Resistor             
+                                           DDS2_R22, DDS3_R11, DDS3_R22
+                                           DDS4_R11, DDS4_R22, DDS5_R11
+                                           DDS5_R22, DDS6_R11, DDS6_R22
+                                           R17
+ 220pF               1608[0603]       6    DDS1_C1, DDS2_C1, DDS3_C1    Capacitor (Semiconductor SIM Model) 
+                                           DDS4_C1, DDS5_C1, DDS6_C1
+ 2k                  6-0805_M         1    R14                          Resistor             
+ 330                 6-0805_M         2    R15, R16                     Resistor             
+ 4.7uF               1608[0603]       2    C18, C21                     Capacitor (Semiconductor SIM Model) 
+ 50k                 6-0805_M        12    DDS1_R3, DDS1_R23, DDS2_R3   Resistor             
+                                           DDS2_R23, DDS3_R3, DDS3_R23
+                                           DDS4_R3, DDS4_R23, DDS5_R3
+                                           DDS5_R23, DDS6_R3, DDS6_R23
+ 5k                  6-0805_M        12    DDS1_R19, DDS1_R20, DDS2_R19 Resistor             
+                                           DDS2_R20, DDS3_R19, DDS3_R20
+                                           DDS4_R19, DDS4_R20, DDS5_R19
+                                           DDS5_R20, DDS6_R19, DDS6_R20
+ 715                 6-0805_M         6    DDS1_R4, DDS2_R4, DDS3_R4    Resistor             
+                                           DDS4_R4, DDS5_R4, DDS6_R4
+ AD8476ARMZ          SOP65P490X110-8N    6    DDS1_U4, DDS2_U4, DDS3_U4    SP Amp DIFF AMP Single R-R O/P Â±9V/18V 8-Pin MSOP Tube 
+                                           DDS4_U4, DDS5_U4, DDS6_U4
+ AD9833BRMZ          ADI-RM-10_M      6    DDS1_U1, DDS2_U1, DDS3_U1    Low Power, 12.65 mW, 2.3 V to 5.5 V, Programmable Waveform Generator, 10-Bit, Serial, RM-10, 50 Tube, Pb-Free 
+                                           DDS4_U1, DDS5_U1, DDS6_U1
+ Header 2            HDR1X2           6    DDS1_P1, DDS2_P1, DDS3_P1    Header, 2-Pin        
+                                           DDS4_P1, DDS5_P1, DDS6_P1
+ Header 4X2          HDR2X4          12    DDS1_P2, DDS1_P3, DDS2_P2    Header, 4-Pin, Dual row 
+                                           DDS2_P3, DDS3_P2, DDS3_P3
+                                           DDS4_P2, DDS4_P3, DDS5_P2
+                                           DDS5_P3, DDS6_P2, DDS6_P3
+ JST                 JST- S2B-PH-SM4-TB(LF)(SN)-2_V    1    J*1                                               
+ LTC1044ACS8         LT-S8-8_M        1    U7                           12 V CMOS Voltage Converter, 8-pin SOIC (S8-8), 0 to 70 degC 
+ LTC6900IS5#PBF      LT-TSOT-23-5_V    1    U8                           Low Power, Resistor Set Oscillator, 1 KHz to 20 MHz, 2.7 to 5.5 V, -40 to 85 degC, 5-Pin SOT-23 (S5), Pb-Free 
+ MCP73831T-2ADI/OT   SOT-23-OT5_M     1    U6                           Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.2V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel 
+ OPA2188AIDR         D0008A_L        24    DDS1_U2, DDS1_U3, DDS1_U5    0.03 uV/degC, 6 uV Vos, Low Noise, Rail-to-Rail Output, Zero-Drift Operational Amplifier, 4 to 36 V, -40 to 105 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br) 
+                                           DDS1_U9, DDS2_U2, DDS2_U3
+                                           DDS2_U5, DDS2_U9, DDS3_U2
+                                           DDS3_U3, DDS3_U5, DDS3_U9
+                                           DDS4_U2, DDS4_U3, DDS4_U5
+                                           DDS4_U9, DDS5_U2, DDS5_U3
+                                           DDS5_U5, DDS5_U9, DDS6_U2
+                                           DDS6_U3, DDS6_U5, DDS6_U9
+ Pro_Micro           Pro_Micro        1    *1                                                
+ SW-SPST             SPST-2           1    S1                           Single-Pole, Single-Throw Switch 
+ TESTPOINT_WHITE     TestPointVia    63    DDS1_TP1, DDS1_TP2, DDS1_TP3                      
+                                           DDS1_TP4, DDS1_TP5, DDS1_TP6
+                                           DDS1_TP7, DDS1_TP8, DDS1_TP9
+                                           DDS1_TP10, DDS2_TP1, DDS2_TP2
+                                           DDS2_TP3, DDS2_TP4, DDS2_TP5
+                                           DDS2_TP6, DDS2_TP7, DDS2_TP8
+                                           DDS2_TP9, DDS2_TP10, DDS3_TP1
+                                           DDS3_TP2, DDS3_TP3, DDS3_TP4
+                                           DDS3_TP5, DDS3_TP6, DDS3_TP7
+                                           DDS3_TP8, DDS3_TP9, DDS3_TP10
+                                           DDS4_TP1, DDS4_TP2, DDS4_TP3
+                                           DDS4_TP4, DDS4_TP5, DDS4_TP6
+                                           DDS4_TP7, DDS4_TP8, DDS4_TP9
+                                           DDS4_TP10, DDS5_TP1, DDS5_TP2
+                                           DDS5_TP3, DDS5_TP4, DDS5_TP5
+                                           DDS5_TP6, DDS5_TP7, DDS5_TP8
+                                           DDS5_TP9, DDS5_TP10, DDS6_TP1
+                                           DDS6_TP2, DDS6_TP3, DDS6_TP4
+                                           DDS6_TP5, DDS6_TP6, DDS6_TP7
+                                           DDS6_TP8, DDS6_TP9, DDS6_TP10
+                                           TP11, TP12, TP13
+ TLMS1100-GS08       VISH-TLMX1100_V    2    DS1, DS2                     LED, RED, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel 
+ ZX62D-AB-5P8        HIRO-ZX62D-AB-5P8_V    1    J1                           USB 2.0 Standard Micro-USB Connector, Micro AB-Standard (Bottom Mount), 30 V AC, -30 to 85 degC, Right Angle, 5-Pin 7.5 x 5.6 x 2.8 mm SMD, RoHS, Reel 
