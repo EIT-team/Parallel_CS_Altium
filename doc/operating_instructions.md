@@ -26,7 +26,7 @@ The banks of 2x4 headers on the board are used to set the output current, by con
 
 The values of gain resistor on the board are 50k (12uA) , 20k (30uA), 10k (60uA) and 5k (120uA), but these could be replaced if different values are needed. 
 
-**NOTE: The silkscreen text is the wrong way round! The leftmost resistor is 50k, then 20k, 10k, 5k**
+**NOTE: The silkscreen text is the wrong way round! The leftmost set of jumpers is the lowest current, and the rightmost is the highest**
 
 Each CS has two sets of headers (there are two op amps used in the output stage), which should be set to the same value.
 
