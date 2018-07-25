@@ -5,12 +5,14 @@
 
 #define NUM_CHANNELS 6
 
-#define FREQ_1 3000
-#define FREQ_2 3500
-#define FREQ_3 4000
-#define FREQ_4 4500
-#define FREQ_5 5000
-#define FREQ_6 5500
+#define FREQ_1 1500
+#define FREQ_2 2000
+#define FREQ_3 2500
+#define FREQ_4 3500
+#define FREQ_5 4500
+#define FREQ_6 6500
+
+#define CHANNEL_TO_PROGRAM 3
 
 long Freqs[NUM_CHANNELS] = {  FREQ_1,
         FREQ_2,

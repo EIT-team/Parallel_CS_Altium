@@ -9,9 +9,9 @@
 #define FSYNC1_Pin 2
 #define FSYNC2_Pin 3
 #define FSYNC3_Pin 4
-#define FSYNC4_Pin 15
-#define FSYNC5_Pin 16
-#define FSYNC6_Pin 17
+#define FSYNC4_Pin 19
+#define FSYNC5_Pin 20
+#define FSYNC6_Pin 21
 
 // Clock generator frequency, set by resistor R_SET on the PCB. This is used in the formula for setting the DDS sine wave frequency (Hz)
 #define DDS_CLOCK_FREQUENCY 10e6

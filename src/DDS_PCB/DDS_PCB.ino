@@ -53,8 +53,9 @@ void loop() {
     // Wait for Serial data to be received and parse it
 
     delay(ONE_SECOND_DELAY);
-    Program_Freqs(Freqs, NUM_CHANNELS);
+    //Program_Freqs(Freqs, NUM_CHANNELS);
     
+    Program_One_Frequency(Freqs, CHANNEL_TO_PROGRAM);
     if (Serial.available()) {
 
       what_to_program = Serial.readStringUntil(' '); // Get a string
@@ -63,7 +64,7 @@ void loop() {
 
       // Process input and call appropriate commands
       // Can't use switch statement to do this as it won't accept a string as a comparator
-      if (what_to_program == "reset") {
+      if (what_to_program == "reset")  {
         Reset_DDS(chan_to_program);
       }
 
@@ -109,6 +110,17 @@ void Program_Then_Turn_Off(long freq, unsigned int on_time_milli, int chan) {
 
 }
 
+void Program_One_Frequency(long Freqs [], int chan_to_turn_on) {
+  /* Only program one current source, set all the rest to off/midscale DC output */
+
+  Serial.print("Programming only source ");
+  Serial.println(chan_to_turn_on);
+
+  Reset_All();
+  delay(100);
+  Set_AD9833_Frequency(Freqs[chan_to_turn_on], chan_to_turn_on);    
+
+}
 
 void Sweep_Freq (int freq_min, int freq_step, int freq_max, int on_time, int chan) {
   /* Sweeps the frequency output on a channel, with increment and max value set by user.
