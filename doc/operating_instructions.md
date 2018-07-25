@@ -1,21 +1,19 @@
 # Operating Instructions
 
 ### Programming the Arduino
-Currently the board has a 3.3V Arduino Pro Mini (https://store.arduino.cc/arduino-pro-mini) which requries an external FTDI programmer (https://www.sparkfun.com/products/9873). Note the orientation of the FTDI programmer.
+Currently the board has a 3.3V Arduino Pro Micro.
 
-![ARDUINO](https://github.com/EIT-team/Parallel_CS_Altium/blob/master/doc/images/arduino-parts.jpg)
+The Pro Micro isn't included in the default set of Arduino boards. Follow the steps here to setup:
 
-![ARDUINO](https://github.com/EIT-team/Parallel_CS_Altium/blob/master/doc/images/arduino-connected.jpg)
-
-It will be easier to use the Sparkfun Arduino Pro Micro, which integrates the MCU and the programmer (https://www.sparkfun.com/products/12640), but we don't have any at the time of writing.
+https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/installing-windows#windows_boardaddon
 
 Once connected, open the Adruino code from the _src/DUE_DAC_ folder. The operating frequencies of the 6 current sources can be set by editing _frequencies.h_.
 
 **Upload settings**
 
-![ARDUINO_SETTINGS](https://github.com/EIT-team/Parallel_CS_Altium/blob/master/doc/images/arduino-settings.jpg)
+If the boards have been updated successfully, select Tools->Boards->Sparkfun Pro Micro.
 
-Once programmed, the FTDI programmer is no longer needed and can be disconected.
+Once programmed, the usb lead is no longer needed and can be disconected.
 
 <br><br>
 
