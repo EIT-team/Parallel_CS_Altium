@@ -53,9 +53,14 @@ void loop() {
     // Wait for Serial data to be received and parse it
 
     delay(ONE_SECOND_DELAY);
-    //Program_Freqs(Freqs, NUM_CHANNELS);
+    if (PROGRAM_ALL) {
+      Program_Freqs(Freqs, NUM_CHANNELS);
+    }
+
+    else {
+      Program_One_Frequency(Freqs, CHANNEL_TO_PROGRAM);  
+    }
     
-    Program_One_Frequency(Freqs, CHANNEL_TO_PROGRAM);
     if (Serial.available()) {
 
       what_to_program = Serial.readStringUntil(' '); // Get a string

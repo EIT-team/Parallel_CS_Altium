@@ -12,7 +12,9 @@
 #define FREQ_5 4500
 #define FREQ_6 6500
 
+#define PROGRAM_ALL 0 // Set to 1 to program all frequencies, set to 0 to only program one
 #define CHANNEL_TO_PROGRAM 3
+
 
 long Freqs[NUM_CHANNELS] = {  FREQ_1,
         FREQ_2,
