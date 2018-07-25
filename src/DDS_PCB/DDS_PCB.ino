@@ -48,10 +48,6 @@ void loop() {
   // Allow setting of frequency/phase from serial monitor
   // Input 'freq val_to_program' to program frequency
   // 'phase val_to_program' to set phase
-
-  while (1) {
-    // Wait for Serial data to be received and parse it
-
     delay(ONE_SECOND_DELAY);
     if (PROGRAM_ALL) {
       Program_Freqs(Freqs, NUM_CHANNELS);
@@ -60,6 +56,11 @@ void loop() {
     else {
       Program_One_Frequency(Freqs, CHANNEL_TO_PROGRAM);  
     }
+    
+  while (1) {
+    // Wait for Serial data to be received and parse it
+
+
     
     if (Serial.available()) {
 
