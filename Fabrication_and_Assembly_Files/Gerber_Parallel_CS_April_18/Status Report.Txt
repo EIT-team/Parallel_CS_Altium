@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [EIT.PrjPcb]
+   Generated File[Parallel_CS.GTL]
+   Generated File[Parallel_CS.GP1]
+   Generated File[Parallel_CS.GP2]
+   Generated File[Parallel_CS.GBL]
+   Generated File[Parallel_CS.GPB]
+   Generated File[Parallel_CS.GPT]
+   Generated File[Parallel_CS.GTO]
+   Generated File[Parallel_CS.GTP]
+   Generated File[Parallel_CS.GTS]
+   Generated File[Parallel_CS.GBS]
+   Generated File[Parallel_CS.GBO]
+   Generated File[Parallel_CS.GKO]
+   Generated File[Parallel_CS.GM1]
+   Generated File[Parallel_CS.GM3]
+   Generated File[Parallel_CS.GM13]
+   Generated File[Parallel_CS.GM15]
+   Generated File[Parallel_CS.RUL]
+   Generated File[Parallel_CS.EXTREP]
+   Generated File[Parallel_CS.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 09:01:24 On 24/04/2018
